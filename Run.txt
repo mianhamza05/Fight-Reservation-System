@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall -Wextra -o flight_system main.cpp utils.cpp flight.cpp passenger.cpp booking.cpp fare.cpp notifications.cpp
